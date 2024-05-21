@@ -1,3 +1,5 @@
+//Java Inheritance Syntax
+
 class Pet {
     public void makeSound() {
         System.out.println("Rico always makes a sound when he hears something.");
